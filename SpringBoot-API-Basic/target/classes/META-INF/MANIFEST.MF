@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBoot-API-Basic
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Hoang
+Implementation-Vendor-Id: com.SpringBoot
+Build-Jdk: 1.8.0_221
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBoot-A
+ PI-Basic/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
